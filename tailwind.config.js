@@ -10,6 +10,9 @@ export default {
       width:{
         '128': "32rem",
         '112': "28rem",
+      }, 
+      boxShadow:{
+        'Dark': "0px 0px 10px black"
       }
     },
   },

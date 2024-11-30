@@ -2,7 +2,16 @@
 export default {
   content: ["./src/**/*.{html,js}", "main.js"],
   theme: {
-    extend: {},
+    extend: {
+      height:{
+        '128': "32rem",
+        '112': "28rem",
+      },
+      width:{
+        '128': "32rem",
+        '112': "28rem",
+      }
+    },
   },
   plugins: [],
 };

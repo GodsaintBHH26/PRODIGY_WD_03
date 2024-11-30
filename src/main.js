@@ -4,7 +4,7 @@ document.querySelector("#app").innerHTML = `
   <div>
     <div class="bg-gradient-to-br from-[#edefff] to-[#00417f] w-112 h-128 rounded-lg flex flex-col items-center justify-items-center">
       
-      <h1 class="text-black font-medium text-center text-4xl p-5 mt-8">Tic Tac Toe Game</h1>
+      <h1 class="text-black font-semibold text-center text-4xl p-5 mt-8">Tic Tac Toe Game</h1>
       
       <div class="home-screen mt-20 text-2xl">
       <button class="start-btn p-5">Start Game</button><br>
